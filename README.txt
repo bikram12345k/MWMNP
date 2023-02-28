@@ -1,4 +1,6 @@
-## This document describes the use of the R codes for analysis of the paper.
+## This document describes the use of the R codes for analysis of the paper
+# 	A Backfitting based MCEM Algorithm for Scalable Estimation in
+#	Multinomial Probit Model with Multilayer Network Linkages
 
 ### For the real data analysis. ###
 ## Transactions data set is referred to as 'target4.txt' in the code. 
